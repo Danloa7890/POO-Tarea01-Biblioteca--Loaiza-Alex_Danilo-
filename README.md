@@ -9,7 +9,7 @@ Este repositorio contiene el desarrollo del caso de estudio de una **Biblioteca*
 * **Semestre:** Cuarto Semestre
 
 **Integrantes:**
-* Loaiza Gomezcuello Alex Danilo
+* Alex Danilo Loaiza Gomezcuello 
 * Michael Alberto Menendez Barzola
 * Marlon Steven Bejarano Muñoz
 * Christian Adolfo Mora Anchundia
