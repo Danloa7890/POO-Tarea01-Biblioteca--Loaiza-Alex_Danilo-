@@ -42,6 +42,3 @@ Siguiendo los lineamientos establecidos, la organización de archivos es la sigu
 
 ---
 
-## 🛠️ Tecnologías
-* **Lenguaje:** Python 3.x
-* **Modelado:** PlantUML
